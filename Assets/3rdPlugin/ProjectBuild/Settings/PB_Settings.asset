@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7c041af61c4b46d4a9c7e5bcd333e653, type: 3}
+  m_Name: PB_Settings
+  m_EditorClassIdentifier: 
+  buildPath: C:\Users\Erik\Desktop
+  enableExtendEditor: 0
+  uIOrientation: 0
+  enableSplashScreen: 0
+  packageName: com.test.hw
+  verstion: 0.0.1
+  bundleVersionCode: 1
+  miniAPI: 19
+  targetAPI: 33
+  keystoreAliasName: hw
+  keystoreName: user
+  keystorePassword: 123456
+  keystoreAliasPassword: 123456
+  createSymbols: 0
+  graphicsDeviceTypes: 080000000b00000015000000

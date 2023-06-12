@@ -1,0 +1,17 @@
+
+{
+  "name": "com.hw.projectbuild",
+  "version": "0.0.1",
+  "displayName": "ProjectBuild",
+  "description": "Project Auto Build",
+  "unity": "2020.3",
+  "dependencies": {
+ },
+ "keywords": [
+    "projectbuild",
+    "build"
+  ],
+  "author": {
+    "name": "ErikFu"
+  }
+}

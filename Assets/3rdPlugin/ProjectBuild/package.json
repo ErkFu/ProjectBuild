@@ -1,7 +1,7 @@
 
 {
   "name": "com.hw.projectbuild",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "displayName": "ProjectBuild",
   "description": "Project Auto Build",
   "unity": "2020.3",
